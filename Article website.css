@@ -1,0 +1,10 @@
+section {
+    width: 50%;
+    margin: 0 auto;
+}
+div.image_container {
+    text-align: center;
+}
+img {
+    width: 900px;
+}
